@@ -1,2 +1,2 @@
 print("Hello, Seoyeong!")
-print("웅앵웅?")
+prijt("Goodbye, Seoyeong!")
